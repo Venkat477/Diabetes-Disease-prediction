@@ -10,6 +10,6 @@ This project is mainly done to learn below functionalities.
 4. Difference in the accuracy when data split using a random sample and stratified sampling sample. </br>
 5. How to identify optimal hyper parameters for a model when a model overfit on the data. </br>
 6. How to calculate different Performance Metrics. </br>
-7. ROC_AUC Curve and its importance to decide the best model. ***
+7. ROC_AUC Curve and its importance to decide the best model.***
 
-I did the above analysis on different Machine Learning Algorithms like KNN, Logisic Regression, SVM, Decision Tree, Random Forest and Gradient Boosting and opted SVM as the model for predicting Diabetes which has ***79% #accuracy***.
+I did the above analysis on different Machine Learning Algorithms like KNN, Logisic Regression, SVM, Decision Tree, Random Forest and Gradient Boosting and opted SVM as the model for predicting Diabetes which has ***79% accuracy***.
