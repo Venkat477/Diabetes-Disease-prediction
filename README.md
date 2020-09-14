@@ -13,3 +13,5 @@ This project is mainly done to learn below functionalities.
 7. ROC_AUC Curve and its importance to decide the best model.***
 
 I did the above analysis on different Machine Learning Algorithms like KNN, Logisic Regression, SVM, Decision Tree, Random Forest and Gradient Boosting and opted SVM as the model for predicting Diabetes which has ***79% accuracy***.
+
+***You can test the service using https://diabetes-disease-prediction.herokuapp.com/***
